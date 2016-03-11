@@ -1,6 +1,6 @@
 /*
 
-Author: Sandeep Panda
+Author: Daniel Mbugua CDan
 FireBase Demo App
 
 */
